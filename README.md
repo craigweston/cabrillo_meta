@@ -104,7 +104,7 @@ cat template.html | bundle exec rake parse_html
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/cabrillo_meta/fork )
+1. Fork it ( https://github.com/craigweston/cabrillo_meta/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
